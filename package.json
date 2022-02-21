@@ -1,0 +1,20 @@
+{
+	"name": "monokle-templates-plugin",
+	"description": "Custom templates plugin",
+	"version": "1.0.0",
+	"author": "Ruhika",
+	"repository": "https://github.com/Ruhika1417/monokle-templates-plugin",
+	"monoklePlugin": {
+		"id": "com.github.Ruhika1417.plugin.templates",
+		"helpUrl": "https://github.com/Ruhika1417/monokle-templates-plugin",
+	
+		"modules": [
+            {
+			"type": "template",
+			"path": "basic-pod-template"
+		}
+       ]
+	}
+}
+
+
